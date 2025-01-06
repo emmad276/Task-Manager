@@ -1,0 +1,10 @@
+Total tasks to setup a task manager
+
+task-1: able to add task (list array, input field)
+task-2: edit task
+task-3: delete task
+task-4: marked as done
+task-5: set deadline
+task-6: assign task
+task-7: user management
+task-8: set task priority
